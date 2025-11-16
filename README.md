@@ -22,12 +22,3 @@ A student Management System that I developed as my first semester Project. This 
 - **Delete Record** – Remove a student record by ID.  
 
 - **Persistent Storage** – All records are stored in a **binary file (`Students.data`)** using Python’s `pickle` module.  
-
----
-
-## How to Run
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/your-username/StudentManagementDatabase.git
